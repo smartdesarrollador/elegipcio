@@ -1,0 +1,66 @@
+[11-Feb-2021 02:41:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/elegipcio/public_html/script/checkout.php:1) in /home1/elegipcio/public_html/script/checkout.php on line 2
+[25-Feb-2021 13:30:33 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_shawerma_bowl.jpg?v=2): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:34:06 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_personal_pollo.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:36:03 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_shawerma_pollo.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:36:41 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_falafel.jpg?v=2): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:40:39 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_porcion_hummus.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:52:39 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_el_egipcio.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:53:02 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_familiar.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:53:39 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_personal_mixto.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:53:58 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_personal_pollo.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:54:39 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_shawerma_bowl.jpg?v=2): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:54:59 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_shawerma_mixto.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:55:25 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_shawerma_pollo.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:55:49 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_falafel.jpg?v=2): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:56:09 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_porcion_papas.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:56:35 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_gaseosa.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:56:54 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_agua.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:57:15 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_limonada_arabe.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:57:36 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_chicha.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:57:58 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_carne.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:58:34 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_porcion_hummus.jpg?v=3): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:58:58 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_falafel.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:59:23 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_combo_al_plato.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 13:59:45 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_cola.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:00:10 America/Chicago] PHP Warning:  unlink(../assets/img/promos/combo_alplatopollo.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:01:54 America/Chicago] PHP Warning:  unlink(../assets/img/promos/combo_alplatofalafel.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:02:21 America/Chicago] PHP Warning:  unlink(../assets/img/promos/promo_porciondefalafel.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:02:46 America/Chicago] PHP Warning:  unlink(../assets/img/promos/promo_dosalplatomixto.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:03:15 America/Chicago] PHP Warning:  unlink(../assets/img/promos/promo_dosalplatomixtomediano.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:09:36 America/Chicago] PHP Warning:  unlink(../assets/img/promos/2SHAWERMAMIXTO5f60f99e4ad5e.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:53:05 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_mahalabia.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 14:53:56 America/Chicago] PHP Warning:  unlink(../assets/img/promos/combo_alplatomixto.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 15:00:09 America/Chicago] PHP Warning:  unlink(../assets/img/promos/promo_bowl_medianoychicha.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[25-Feb-2021 15:00:52 America/Chicago] PHP Warning:  unlink(../assets/img/promos/carta_falafel_premium.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[01-Apr-2021 16:27:37 America/Chicago] PHP Warning:  unlink(../assets/img/promos/SHAWERMACRIOLLO5f10e9e8585df.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[15-Apr-2021 16:48:27 America/Chicago] PHP Warning:  unlink(../assets/img/promos/COMBOCRIOLLO5f10e971d2d0b.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[21-Apr-2021 13:36:15 America/Chicago] PHP Fatal error:  Uncaught LogicException: id_token must be passed in or set as part of setAccessToken in /home1/elegipcio/public_html/vendor/google/apiclient/src/Google/Client.php:732
+Stack trace:
+#0 /home1/elegipcio/public_html/script/googleSignConfig.php(10): Google_Client->verifyIdToken(NULL)
+#1 {main}
+  thrown in /home1/elegipcio/public_html/vendor/google/apiclient/src/Google/Client.php on line 732
+[19-May-2021 13:18:03 America/Chicago] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ConnectException: cURL error 6: Couldn't resolve host 'www.googleapis.com' (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200
+Stack trace:
+#0 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(155): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(105): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/Prox in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 200
+[19-May-2021 13:18:23 America/Chicago] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ConnectException: cURL error 6: Couldn't resolve host 'www.googleapis.com' (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200
+Stack trace:
+#0 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(155): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(105): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/Prox in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 200
+[20-May-2021 12:08:04 America/Chicago] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ConnectException: cURL error 6: Couldn't resolve host 'www.googleapis.com' (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200
+Stack trace:
+#0 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(155): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(105): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/Prox in /home1/elegipcio/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 200
+[07-Jul-2021 12:09:51 America/Chicago] PHP Warning:  unlink(../assets/img/promos/COMBO-AL-PESO-.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[15-Jul-2021 13:57:35 America/Chicago] PHP Warning:  unlink(../assets/img/promos/COMBO-AL-PESO-.jpg): No such file or directory in /home1/elegipcio/public_html/script/updateProduct.php on line 57
+[06-Aug-2021 20:35:04 America/Chicago] PHP Fatal error:  Uncaught LogicException: id_token must be passed in or set as part of setAccessToken in /home1/elegipcio/public_html/vendor/google/apiclient/src/Google/Client.php:732
+Stack trace:
+#0 /home1/elegipcio/public_html/script/googleSignConfig.php(10): Google_Client->verifyIdToken(NULL)
+#1 {main}
+  thrown in /home1/elegipcio/public_html/vendor/google/apiclient/src/Google/Client.php on line 732
